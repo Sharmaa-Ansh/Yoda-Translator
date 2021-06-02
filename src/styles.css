@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,700;1,400&display=swap");
+
+.App {
+  /* font-family: sans-serif;*/
+  text-align: center;
+}
+
+body {
+  margin: 0px;
+  background-color: #c0ffa7;
+  font-family: "Tinos", serif;
+}
+
+input {
+  display: block;
+  width: 80%;
+  height: 15vh;
+  margin-top: 2rem;
+  border: 2px solid black;
+  margin: auto;
+  border-bottom-right-radius: 13px;
+  border-top-right-radius: 13px;
+  border-bottom-left-radius: 13px;
+  border-top-left-radius: 13px;
+  font-size: 1.5rem;
+  text-align: justify;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+button {
+  padding: 0.8rem 2.8rem;
+  font-size: 1.9rem;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  border-bottom-right-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px;
+  background-color: #5be222;
+  border: 3px solid black;
+  font-family: "Tinos", serif;
+  cursor: pointer;
+}
+
+h1 {
+  font-family: "Tinos", serif;
+}
+
+h2 {
+  font-size: 1.9rem;
+}
